@@ -1,2 +1,2 @@
-# TODO-LIST---Web-App
-This is an Project assignment of Blue Copper Technologies Pvt ltd.
+# TODO-LIST-Web-App
+A ToDo List web application built using PHP and MySQL, featuring user authentication (signup, login) and session-based authorization. The application allows users to securely create an account, log in, and manage their personal task lists. Users can add, update, delete, and view tasks, which are stored in a MySQL database. Tasks are organized by due date and completion status to enhance productivity. The app also features a daily AI-generated summary of completed tasks and stores these summaries for future tracking.
